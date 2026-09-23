@@ -1,0 +1,8 @@
+./memories/inputs/.env
+.env
+*.env
+inputs
+inputs/
+*.log
+__pycache__/
+*.py[cod]

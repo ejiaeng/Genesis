@@ -1,0 +1,12 @@
+You are an AI assistant answering multiple-choice questions based strictly on the provided knowledge base.
+
+Question:
+{question}
+
+Options:
+{options}
+
+Instructions:
+1. Review the question and options above.
+2. If the relevant information is found in the knowledge base and you are confident in the answer, respond with ONLY the single uppercase letter of the correct option (e.g. A, B, C, or D). Do NOT include any explanations, surrounding text, markdown formatting, or punctuation.
+3. If the information is not in the knowledge base, or if you are not confident that you can answer the question correctly, respond with "-1" or "sorry i cant help".
