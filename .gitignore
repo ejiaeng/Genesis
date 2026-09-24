@@ -5,5 +5,6 @@ inputs
 inputs/
 *.log
 __pycache__/
+*__pycache__/
 *.py[cod]
-.gitignore
+testing/scripts

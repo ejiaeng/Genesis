@@ -8,7 +8,8 @@
             "C": "The land and the sea",
             "D": "The world and the stars"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -19,7 +20,8 @@
             "C": "Speaking to the waters",
             "D": "Hovering over the waters"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -30,7 +32,8 @@
             "C": "Light and darkness",
             "D": "The sun and moon"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -41,7 +44,8 @@
             "C": "Third",
             "D": "Fourth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -52,7 +56,8 @@
             "C": "Sky",
             "D": "Light"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -63,7 +68,8 @@
             "C": "Outer space/stars",
             "D": "Clouds/Vapour"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -74,7 +80,8 @@
             "C": "Gathered into one place",
             "D": "Scattered to the ends of the earth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -85,7 +92,8 @@
             "C": "The hand of the Lord",
             "D": "The dry land"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -96,7 +104,8 @@
             "C": "Rocks and hills",
             "D": "Flowing brooks and rivers"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -107,7 +116,8 @@
             "C": "The sun and moon",
             "D": "The plants and animals"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -118,7 +128,8 @@
             "C": "The earth",
             "D": "The darkness"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -129,7 +140,8 @@
             "C": "To aid the separation of the waters",
             "D": "To separate the day from the night"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -140,7 +152,8 @@
             "C": "Birds",
             "D": "Angels"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -151,7 +164,8 @@
             "C": "To eat the plants of the sea",
             "D": "To form families according to their kinds"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -162,7 +176,8 @@
             "C": "Kinds",
             "D": "habitations"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 16,
@@ -173,7 +188,8 @@
             "C": "The land animals",
             "D": "The goodness and love"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 17,
@@ -184,7 +200,8 @@
             "C": "Their caring for the land",
             "D": "Their rule over the animals"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 18,
@@ -195,7 +212,8 @@
             "C": "To tend the garden and its creatures",
             "D": "To love one another"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 19,
@@ -206,7 +224,8 @@
             "C": "Manna from heaven",
             "D": "The fruit from the tree of life"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 20,
@@ -217,7 +236,8 @@
             "C": "Anything but eating their own kind",
             "D": "The springs of water on the earth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 21,
@@ -228,7 +248,8 @@
             "C": "Every creature that moves on the ground",
             "D": "The trees of the garden"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 22,
@@ -239,7 +260,8 @@
             "C": "The good land that God had made",
             "D": "They were able to move on the earth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 23,
@@ -250,7 +272,8 @@
             "C": "He commanded the evening and morning to pass",
             "D": "He divided something"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -261,7 +284,8 @@
             "C": "He blessed it and pronounced it good",
             "D": "He made its morning holy and its evening blessed"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -272,7 +296,8 @@
             "C": "No streams of water",
             "D": "No rain from the sky"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -283,7 +308,8 @@
             "C": "Water of the sea",
             "D": "From the word of His mouth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -294,7 +320,8 @@
             "C": "When God took Eve out of Adam's side",
             "D": "When God breathed into the human's nostrils"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -305,7 +332,8 @@
             "C": "In the garden of Eden",
             "D": "Between the rivers of life"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -316,7 +344,8 @@
             "C": "Pishon",
             "D": "Nile"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -327,7 +356,8 @@
             "C": "The tree of the nations",
             "D": "The tree of wisdom"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -338,7 +368,8 @@
             "C": "To harvest and water the garden",
             "D": "To enjoy and worship in the garden"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -349,7 +380,8 @@
             "C": "They would die",
             "D": "The garden would perish"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -360,7 +392,8 @@
             "C": "By the word of the Lord",
             "D": "From the plants of the garden"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -371,7 +404,8 @@
             "C": "Names",
             "D": "Blessing"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -382,7 +416,8 @@
             "C": "Aloneness",
             "D": "Having to work the garden"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -393,7 +428,8 @@
             "C": "Arm",
             "D": "Head"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -404,7 +440,8 @@
             "C": "Because she was part of him",
             "D": "Because she was a help to him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -415,7 +452,8 @@
             "C": "Becoming one flesh",
             "D": "Having one mind"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -426,7 +464,8 @@
             "C": "Shame",
             "D": "Alone"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -437,7 +476,8 @@
             "C": "Wise/cunning",
             "D": "Evil/wicked"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -448,7 +488,8 @@
             "C": "The woman",
             "D": "The animals"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -459,7 +500,8 @@
             "C": "Questioning whether the tree was really evil",
             "D": "Asking if she wanted to be wise"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -470,7 +512,8 @@
             "C": "Pick and eat it",
             "D": "Eat and touch it"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -481,7 +524,8 @@
             "C": "Allow her to wear clothes",
             "D": "Make her like Adam"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -492,7 +536,8 @@
             "C": "Knowledge of good and evil",
             "D": "Knowledge to choose whatever they wanted"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -503,7 +548,8 @@
             "C": "Desirable to make one wise",
             "D": "Smooth to the touch"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -514,7 +560,8 @@
             "C": "They were going to die",
             "D": "They were alone"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -525,7 +572,8 @@
             "C": "They used beads and shells",
             "D": "They sewed fig leaves together"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -536,7 +584,8 @@
             "C": "They hid from him among the trees",
             "D": "They killed the serpent and brought it to God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -547,7 +596,8 @@
             "C": "Because he was ashamed",
             "D": "Because he was exploring outside the garden"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -558,7 +608,8 @@
             "C": "God",
             "D": "The tree"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -569,7 +620,8 @@
             "C": "God",
             "D": "The tree"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -580,7 +632,8 @@
             "C": "His head will be crushed by the woman's offspring",
             "D": "His back will be broken by the man's foot"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -591,7 +644,8 @@
             "C": "Would have to work and care for the garden",
             "D": "Would have pain in childbearing"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 16,
@@ -602,7 +656,8 @@
             "C": "Never be satisfied",
             "D": "Be toward the plants and animals"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -613,7 +668,8 @@
             "C": "The trees",
             "D": "The animals"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 18,
@@ -624,7 +680,8 @@
             "C": "He would once again be alone",
             "D": "He would return to the dust from which he was taken"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 19,
@@ -635,7 +692,8 @@
             "C": "Because she was bone of his bone and flesh of his flesh",
             "D": "Because she took away his loneliness"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 20,
@@ -646,7 +704,8 @@
             "C": "God made garments of skin from animals",
             "D": "God gave them robes to cover their shame"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 21,
@@ -657,7 +716,8 @@
             "C": "In being free to make a moral choice",
             "D": "In struggling with life and death"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 22,
@@ -668,7 +728,8 @@
             "C": "Coming to meet God",
             "D": "Eating from the tree of life"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 23,
@@ -679,7 +740,8 @@
             "C": "An archangel with a shining sword",
             "D": "A chariot of fire armed by an angel"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -690,7 +752,8 @@
             "C": "Cain",
             "D": "Seth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -701,7 +764,8 @@
             "C": "Played the harp and flute",
             "D": "Forged instruments of iron and bronze"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -712,7 +776,8 @@
             "C": "Bullocks and cattle",
             "D": "Firstborn of his flocks"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -723,7 +788,8 @@
             "C": "He was defensive",
             "D": "He was repentant"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -734,7 +800,8 @@
             "C": "Sin",
             "D": "Murder"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -745,7 +812,8 @@
             "C": "In a field",
             "D": "By a river"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -756,7 +824,8 @@
             "C": "Seek him and you shall find him",
             "D": "Let the dead bury their dead"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -767,7 +836,8 @@
             "C": "He was never to raise crops again",
             "D": "His brothers blood would stain his hands forever"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -775,9 +845,11 @@
         "options": {
             "A": "A servant or slave to everyone he would meet",
             "B": "A reminder to all of violence and death",
-            "C": "A godless or wicked person D A restless fugitive on the earth"
+            "C": "A godless or wicked person D A restless fugitive on the earth",
+            "D": "A restless fugitive on the earth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -788,7 +860,8 @@
             "C": "He put a mark on Cain so people wouldn't kill him",
             "D": "He told Adam and Eve that they should not seek revenge on Cain"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -799,7 +872,8 @@
             "C": "North of Eden",
             "D": "South of Eden"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -810,7 +884,8 @@
             "C": "A musical instrument",
             "D": "A city"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -821,7 +896,8 @@
             "C": "Married more than one woman",
             "D": "Repented and sought the Lord"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -832,7 +908,8 @@
             "C": "Lamech",
             "D": "Zillah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -843,7 +920,8 @@
             "C": "Lamech",
             "D": "Zillah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 16,
@@ -854,7 +932,8 @@
             "C": "Lamech",
             "D": "Zillah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -865,7 +944,8 @@
             "C": "Enoch",
             "D": "Seth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 18,
@@ -876,7 +956,8 @@
             "C": "Lamech",
             "D": "Jabal"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -887,7 +968,8 @@
             "C": "The likeness of the animals",
             "D": "The likeness of angels"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -898,7 +980,8 @@
             "C": "Cain",
             "D": "Seth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -909,7 +992,8 @@
             "C": "X was the father of all those that Y (trade: play the harp etc)",
             "D": "The person became the father of .... (names children)"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -920,7 +1004,8 @@
             "C": "Became the father of sons and daughters",
             "D": "He walked with God"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -931,7 +1016,8 @@
             "C": "He went to heaven in a chariot of fire",
             "D": "He slept with this fathers"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -942,7 +1028,8 @@
             "C": "Adam and Shem",
             "D": "Adam and Methuselah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -953,7 +1040,8 @@
             "C": "Seth",
             "D": "Methuselah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -964,7 +1052,8 @@
             "C": "Noah",
             "D": "Seth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -975,7 +1064,8 @@
             "C": "Ham",
             "D": "Japheth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -986,7 +1076,8 @@
             "C": "Humans built towers to heaven",
             "D": "Humans began to build gardens like Eden on the earth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -997,7 +1088,8 @@
             "C": "The sons of the devil",
             "D": "The sons of the Anakim"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -1008,7 +1100,8 @@
             "C": "120 years",
             "D": "200 years"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -1019,7 +1112,8 @@
             "C": "Cainites wandering to and fro",
             "D": "Heroes of the legends of old"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1030,7 +1124,8 @@
             "C": "He felt alone",
             "D": "He was curious"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -1041,7 +1136,8 @@
             "C": "To wipe humankind and animals off the earth",
             "D": "To bury the sin in the depths of the sea"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -1052,7 +1148,8 @@
             "C": "Noah was pronounced \"good\" by God",
             "D": "Noah was chosen by God"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -1063,7 +1160,8 @@
             "C": "Walked with God",
             "D": "Wise"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -1074,7 +1172,8 @@
             "C": "Injustice",
             "D": "Dishonesty"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -1085,7 +1184,8 @@
             "C": "1500",
             "D": "5000"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -1096,7 +1196,8 @@
             "C": "3",
             "D": "4"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -1107,7 +1208,8 @@
             "C": "His justice",
             "D": "His covenant"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -1118,7 +1220,8 @@
             "C": "Noah's grandchildren",
             "D": "Noah's sons' wives"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -1129,7 +1232,8 @@
             "C": "10",
             "D": "12"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -1140,7 +1244,8 @@
             "C": "Ham",
             "D": "Japheth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 16,
@@ -1151,7 +1256,8 @@
             "C": "The breath of life",
             "D": "Been food for humans"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -1162,7 +1268,8 @@
             "C": "He was righteous",
             "D": "He was faithful"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -1173,7 +1280,8 @@
             "C": "Seven",
             "D": "Ten"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -1184,7 +1292,8 @@
             "C": "To save the animals from humankind's evil",
             "D": "To provide animals for sacrificing"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -1195,7 +1304,8 @@
             "C": "One hundred and fifty days and nights",
             "D": "One and a half years"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1206,7 +1316,8 @@
             "C": "Five hundred years",
             "D": "Six hundred years"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -1217,7 +1328,8 @@
             "C": "14",
             "D": "Over 20"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -1228,7 +1340,8 @@
             "C": "The breath of life",
             "D": "Blood"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -1239,7 +1352,8 @@
             "C": "He and his sons shut the door",
             "D": "The Lord shut him in"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -1250,7 +1364,8 @@
             "C": "Mountains",
             "D": "Trees"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -1261,7 +1376,8 @@
             "C": "Humans",
             "D": "Creatures that move on the ground"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -1272,7 +1388,8 @@
             "C": "Forty days and nights",
             "D": "One month"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -1283,7 +1400,8 @@
             "C": "All the wild animals",
             "D": "The dry ground"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -1294,7 +1412,8 @@
             "C": "The rains ceased",
             "D": "The wind blew over the earth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -1305,7 +1424,8 @@
             "C": "Ararat",
             "D": "Sinai"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -1316,7 +1436,8 @@
             "C": "Sparrow",
             "D": "Raven"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1327,7 +1448,8 @@
             "C": "Sparrow",
             "D": "Raven"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -1338,7 +1460,8 @@
             "C": "The rest of the birds could be released",
             "D": "The waters had receded"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -1349,7 +1472,8 @@
             "C": "The bird hovered over the ark",
             "D": "The bird brought back some food"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -1360,7 +1484,8 @@
             "C": "To multiply in number on the earth",
             "D": "To never mix different kinds of animals again"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -1371,7 +1496,8 @@
             "C": "A vineyard",
             "D": "An altar"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -1382,7 +1508,8 @@
             "C": "He heard the prayer of Noah",
             "D": "He touched the dry ground"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -1393,7 +1520,8 @@
             "C": "Every inclination of his heart was evil from childhood",
             "D": "Humans now saw the need for a sacrifice for sin"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -1404,7 +1532,8 @@
             "C": "He would cause the sun to shine on the just and unjust",
             "D": "He would multiply the animals as He had in the garden of Eden"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -1415,7 +1544,8 @@
             "C": "His unfailing love to humans",
             "D": "Sun shine and wind"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -1426,7 +1556,8 @@
             "C": "Humans could eat moving creatures not just plants",
             "D": "Boats could be built to protect them from future floods"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -1437,7 +1568,8 @@
             "C": "They were not to eat meat of unclean animals",
             "D": "They were not to eat meat killed by predators"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -1448,7 +1580,8 @@
             "C": "He was to be imprisoned forever",
             "D": "He was to offer a sacrifice for forgiveness"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -1459,7 +1592,8 @@
             "C": "God would never again cut off all life with a flood",
             "D": "God would forgive the sins of humankind"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1470,7 +1604,8 @@
             "C": "The ark would stay on Ararat forever",
             "D": "Rainbow in the sky"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -1481,7 +1616,8 @@
             "C": "Stop the rain so as not to destroy again",
             "D": "Forgive the sins of humankind"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -1492,7 +1628,8 @@
             "C": "Canaan",
             "D": "Japheth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -1503,7 +1640,8 @@
             "C": "Canaan",
             "D": "Japheth"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -1514,7 +1652,8 @@
             "C": "Canaan",
             "D": "Japheth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -1525,7 +1664,8 @@
             "C": "Canaan",
             "D": "Japheth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -1536,7 +1676,8 @@
             "C": "Canaan",
             "D": "Japheth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -1547,7 +1688,8 @@
             "C": "He would fear and flee as animals pursued him",
             "D": "He would not be able to be fruitful and multiply"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -1558,7 +1700,8 @@
             "C": "Japheth",
             "D": "Canaan"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -1569,7 +1712,8 @@
             "C": "Japheth",
             "D": "Canaan"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -1580,7 +1724,8 @@
             "C": "Nimrod",
             "D": "Japheth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -1591,7 +1736,8 @@
             "C": "A great sailor of the seas",
             "D": "A mighty hunter before the Lord"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1602,7 +1748,8 @@
             "C": "Japheth",
             "D": "Canaan"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -1613,7 +1760,8 @@
             "C": "Gomer",
             "D": "Nimrod"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -1624,7 +1772,8 @@
             "C": "Japheth",
             "D": "Magog"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -1635,7 +1784,8 @@
             "C": "Canaan",
             "D": "Nimrod"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -1646,7 +1796,8 @@
             "C": "One language",
             "D": "One food source"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -1657,7 +1808,8 @@
             "C": "Stone and tar",
             "D": "Bricks and tar"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -1668,7 +1820,8 @@
             "C": "So that they could become like God",
             "D": "So that a flood would never destroy everyone again"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -1679,7 +1832,8 @@
             "C": "People stopped building the tower",
             "D": "People could not understand each other"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -1690,7 +1844,8 @@
             "C": "Shem",
             "D": "Canaan"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -1701,7 +1856,8 @@
             "C": "Peleg",
             "D": "Terah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -1712,7 +1868,8 @@
             "C": "Nephew",
             "D": "Cousin"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -1723,7 +1880,8 @@
             "C": "Ur of the Chaldees",
             "D": "Babylon of the Akkadians"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -1734,7 +1892,8 @@
             "C": "Jerusalem",
             "D": "Haran"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -1745,7 +1904,8 @@
             "C": "Leah",
             "D": "Rachel"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -1756,7 +1916,8 @@
             "C": "His people",
             "D": "His father's household"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -1767,7 +1928,8 @@
             "C": "He would give Abram's descendants His law",
             "D": "He would make Abram's name great"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -1778,7 +1940,8 @@
             "C": "Melichizedek",
             "D": "His father"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -1789,7 +1952,8 @@
             "C": "Bethel",
             "D": "Shechem"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -1800,7 +1964,8 @@
             "C": "Bethel",
             "D": "Shechem"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -1811,7 +1976,8 @@
             "C": "By the river Jordan",
             "D": "On the threshingfloor of Araunah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -1822,7 +1988,8 @@
             "C": "Beersheba and Hebron",
             "D": "Megiddo and Jezreel"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -1833,7 +2000,8 @@
             "C": "He found no where to settle among the Canaanites",
             "D": "There was a famine in the land of Canaan"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -1844,7 +2012,8 @@
             "C": "He was afraid they would kill him to get her",
             "D": "He was trying to protect her from the Egyptians"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -1855,7 +2024,8 @@
             "C": "They tried to give him gold and silver",
             "D": "They gave him sheep and cattle"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -1866,7 +2036,8 @@
             "C": "God inflicted disease on Pharaoh's household",
             "D": "God rebuked Abram for lying about his wife"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -1877,7 +2048,8 @@
             "C": "Hill country",
             "D": "Philistine plain"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -1888,7 +2060,8 @@
             "C": "Jewels",
             "D": "Silver"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -1899,7 +2072,8 @@
             "C": "He circumcised Lot",
             "D": "He called on the name of the Lord"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -1910,7 +2084,8 @@
             "C": "Their herds were getting mixed",
             "D": "Abram was sacrificing Lot's sheep"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -1921,7 +2096,8 @@
             "C": "Lot would return to Haran with his herds",
             "D": "Melchisedek would be sought out to solve the problem"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -1932,7 +2108,8 @@
             "C": "It was a center for trading",
             "D": "It was well watered"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -1943,7 +2120,8 @@
             "C": "The garden of the Lord",
             "D": "Babylon by the Euphrates river"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -1954,7 +2132,8 @@
             "C": "Jericho",
             "D": "Shechem"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -1965,7 +2144,8 @@
             "C": "Lot",
             "D": "Their neighbors"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -1976,7 +2156,8 @@
             "C": "All the land he could see",
             "D": "A descendent who would rule"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -1987,7 +2168,8 @@
             "C": "Sand of the sea",
             "D": "The dust of the earth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -1998,7 +2180,8 @@
             "C": "Bethlehem",
             "D": "Beersheba"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -2009,7 +2192,8 @@
             "C": "Admah",
             "D": "Elam"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -2020,7 +2204,8 @@
             "C": "Admah",
             "D": "Elam"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -2031,7 +2216,8 @@
             "C": "Salt Sea",
             "D": "Red Sea"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -2042,7 +2228,8 @@
             "C": "Gomorrah",
             "D": "Admah E. Zoar"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -2053,7 +2240,8 @@
             "C": "The tar pits",
             "D": "The trees"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -2064,7 +2252,8 @@
             "C": "Sarai",
             "D": "Melchizedek"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -2075,7 +2264,8 @@
             "C": "The servant of the most high",
             "D": "The Hebrew"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -2086,7 +2276,8 @@
             "C": "By the well at Beersheba",
             "D": "By the plain of Bethlehem"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -2097,7 +2288,8 @@
             "C": "318",
             "D": "1,000"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -2108,7 +2300,8 @@
             "C": "Jerusalem and Bethlehem",
             "D": "Bethel and Ai"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -2119,7 +2312,8 @@
             "C": "Mamre",
             "D": "Salem"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -2130,7 +2324,8 @@
             "C": "Wine and meat",
             "D": "Olive oil and figs"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 13,
@@ -2141,7 +2336,8 @@
             "C": "Mamre",
             "D": "Melchizedek"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -2152,7 +2348,8 @@
             "C": "God Most High",
             "D": "LORD God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -2163,7 +2360,8 @@
             "C": "The herds",
             "D": "His servants"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -2174,7 +2372,8 @@
             "C": "The God Almighty",
             "D": "Lord Jehovah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 17,
@@ -2185,7 +2384,8 @@
             "C": "He did not want it ever to be said the King of Sodom made him rich",
             "D": "He did not want the King of Sodom to boast of his being the victor"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 18,
@@ -2196,7 +2396,8 @@
             "C": "Only some water from the spring at Jericho",
             "D": "Only what his men had eaten"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 19,
@@ -2207,7 +2408,8 @@
             "C": "A tenth",
             "D": "A half"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -2218,7 +2420,8 @@
             "C": "Shield",
             "D": "Sword"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -2229,7 +2432,8 @@
             "C": "That other nations were cursing not blessing him",
             "D": "That his flocks were dying in the famine"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -2240,7 +2444,8 @@
             "C": "His nephew Lot",
             "D": "Eliezar of Damascus"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -2251,7 +2456,8 @@
             "C": "The waves of the sea",
             "D": "Locusts"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -2262,7 +2468,8 @@
             "C": "He believed",
             "D": "He worshipped"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -2273,7 +2480,8 @@
             "C": "He believed God",
             "D": "He worshipped God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -2284,7 +2492,8 @@
             "C": "How he could know his seed would be as the dust?",
             "D": "How he could know Sarai would bear a child?"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -2295,7 +2504,8 @@
             "C": "A goat, sheep and dove",
             "D": "A sheep, goat and dove"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -2306,7 +2516,8 @@
             "C": "He was ready to offer his servant on the altar",
             "D": "He fell into a deep sleep"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -2317,7 +2528,8 @@
             "C": "300 years",
             "D": "400 years"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -2328,7 +2540,8 @@
             "C": "The sin of the Amorites had not reached its full measure",
             "D": "If they stayed in Canaan the iniquity of the Edomites would  50 corrupt his descendants"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -2339,7 +2552,8 @@
             "C": "Return after God had destroyed those living in Canaan",
             "D": "Leave that country as kings and priests over the earth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -2350,7 +2564,8 @@
             "C": "A rock on which the covenant was written",
             "D": "Abram himself walked between the pieces"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -2361,7 +2576,8 @@
             "C": "Alliance",
             "D": "Covenant"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -2372,7 +2588,8 @@
             "C": "The river of Egypt",
             "D": "The Litani"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -2383,7 +2600,8 @@
             "C": "Hittites",
             "D": "Jebusites E. Amorites"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -2394,7 +2612,8 @@
             "C": "Egypt",
             "D": "Haran"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -2405,7 +2624,8 @@
             "C": "Abram",
             "D": "The Lord"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -2416,7 +2636,8 @@
             "C": "She loved Abram",
             "D": "She loved the child"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -2427,7 +2648,8 @@
             "C": "She despised Abram",
             "D": "She mistreated Hagar"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -2438,7 +2660,8 @@
             "C": "Near a river in the desert",
             "D": "Near the road to Egypt"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -2449,7 +2672,8 @@
             "C": "Return and submit to Sarai",
             "D": "Go to Lot's house"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -2460,7 +2684,8 @@
             "C": "Abimelech",
             "D": "Isaac"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -2471,7 +2696,8 @@
             "C": "A bird",
             "D": "A lion"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -2482,7 +2708,8 @@
             "C": "Fear",
             "D": "Hostility"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -2493,7 +2720,8 @@
             "C": "I have now seen the One (God) who sees me",
             "D": "I have found life in the house of my master"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -2504,7 +2732,8 @@
             "C": "98",
             "D": "104"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -2515,7 +2744,8 @@
             "C": "God Almighty",
             "D": "Lord Jehovah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -2526,7 +2756,8 @@
             "C": "Be God's chosen one",
             "D": "Be a father of many sons"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -2537,7 +2768,8 @@
             "C": "The land of his fathers",
             "D": "The land between the rivers"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -2548,7 +2780,8 @@
             "C": "Abraham was to refuse to eat anything unclean",
             "D": "Abraham was to circumcise himself and his household"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -2559,7 +2792,8 @@
             "C": "Eighth",
             "D": "Fortieth"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -2570,7 +2804,8 @@
             "C": "The mother of a multitude",
             "D": "The blessed one"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -2581,7 +2816,8 @@
             "C": "He was silent",
             "D": "He laughed"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -2592,7 +2828,8 @@
             "C": "Isaac",
             "D": "Jacob"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -2603,7 +2840,8 @@
             "C": "He would become a great nation",
             "D": "He would be the father of 12 rulers"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -2614,7 +2852,8 @@
             "C": "90",
             "D": "75"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -2625,7 +2864,8 @@
             "C": "Isaac",
             "D": "Ishmael"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -2636,7 +2876,8 @@
             "C": "In a valley by Bethlehem",
             "D": "By a well at Beersheba"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -2647,7 +2888,8 @@
             "C": "Their feet",
             "D": "Their necks"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -2658,7 +2900,8 @@
             "C": "Meat",
             "D": "Milk"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -2669,7 +2912,8 @@
             "C": "By a well",
             "D": "In the tent"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -2680,7 +2924,8 @@
             "C": "She pondered in her heart",
             "D": "She believed"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -2691,7 +2936,8 @@
             "C": "Sodom",
             "D": "Bethlehem"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -2702,7 +2948,8 @@
             "C": "So his children may remember the Lord all their days",
             "D": "So God may bring glory to Himself among the nations"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -2713,7 +2960,8 @@
             "C": "That they should be merciful on the wicked of Sodom",
             "D": "That they should not destroy the righteous with the wicked"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -2724,7 +2972,8 @@
             "C": "As only flesh and blood",
             "D": "As one made in the image of God"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -2735,7 +2984,8 @@
             "C": "20",
             "D": "50"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -2746,7 +2996,8 @@
             "C": "The son of God",
             "D": "LORD 59"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -2757,7 +3008,8 @@
             "C": "Is not belief better than sacrifice?",
             "D": "Sarah's son would be called Isaac meaning laughter"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -2768,7 +3020,8 @@
             "C": "Forgive sin",
             "D": "Execute justice"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -2779,7 +3032,8 @@
             "C": "Three",
             "D": "Five"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -2790,7 +3044,8 @@
             "C": "By the palace of the city",
             "D": "By the gateway of the city"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -2801,7 +3056,8 @@
             "C": "Stay at his house",
             "D": "Leave the city"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -2812,7 +3068,8 @@
             "C": "Milk and honey",
             "D": "Olives and figs"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -2823,7 +3080,8 @@
             "C": "Question them",
             "D": "Circumcise them"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -2834,7 +3092,8 @@
             "C": "Some money",
             "D": "His daughters"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -2845,7 +3104,8 @@
             "C": "They blinded the men",
             "D": "They caused lightning to strike in their midst"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -2856,7 +3116,8 @@
             "C": "They wanted to stay with their friends",
             "D": "They thought God was merciful and would never destroy the city"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -2867,7 +3128,8 @@
             "C": "A cave",
             "D": "To the plain of Jericho"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -2878,7 +3140,8 @@
             "C": "She fell into a deep crevice and died",
             "D": "She turned into a pillar of salt"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -2889,7 +3152,8 @@
             "C": "Smoke rising",
             "D": "Birds of prey circling overhead"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -2900,7 +3164,8 @@
             "C": "Because the people of Zoar were no better than those of Sodom",
             "D": "God told him to go to the cave instead of Zoar"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -2911,7 +3176,8 @@
             "C": "They had children from their husbands in Sodom",
             "D": "They were sent back to marry those of Abraham's household"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -2922,7 +3188,8 @@
             "C": "Edomites and Jebusites",
             "D": "Moabites and Ammonites"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -2933,7 +3200,8 @@
             "C": "Arad",
             "D": "Gerar"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -2944,7 +3212,8 @@
             "C": "Negev",
             "D": "Sinai"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -2955,7 +3224,8 @@
             "C": "God made all who touched Sarah die",
             "D": "God warned him from a burning bush"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -2966,7 +3236,8 @@
             "C": "A prophet",
             "D": "A man of God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -2977,7 +3248,8 @@
             "C": "Wash his hands",
             "D": "Circumcise him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -2988,7 +3260,8 @@
             "C": "She actually was his sister",
             "D": "He knew Abimelech had a large harem"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -2999,7 +3272,8 @@
             "C": "The same grand-father",
             "D": "They were cousins, their father's were brothers"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -3010,7 +3284,8 @@
             "C": "1,000 shekels of silver",
             "D": "Bread and wine"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -3021,7 +3296,8 @@
             "C": "He had dried up all his wells",
             "D": "He had caused his children to die"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -3032,7 +3308,8 @@
             "C": "God",
             "D": "Abimelech's family"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -3043,7 +3320,8 @@
             "C": "Isaac",
             "D": "Abimelech"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -3054,7 +3332,8 @@
             "C": "The eighth day",
             "D": "The twelfth day"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -3065,7 +3344,8 @@
             "C": "110",
             "D": "90"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -3076,7 +3356,8 @@
             "C": "Strength",
             "D": "Praise"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -3087,7 +3368,8 @@
             "C": "She told Abraham he should do what is right in his eyes with Ishmael and Hagar",
             "D": "She told Abraham to get rid of Hagar and Ishmael"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -3098,7 +3380,8 @@
             "C": "He would be an adversary to all his brothers",
             "D": "He would be blessed"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -3109,7 +3392,8 @@
             "C": "The desert of Arabia",
             "D": "The region by the Salt Sea"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -3120,7 +3404,8 @@
             "C": "Under some bushes",
             "D": "Under the shade of a rock"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -3131,7 +3416,8 @@
             "C": "A fountain",
             "D": "A stream"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -3142,7 +3428,8 @@
             "C": "Lot and Melchizedek",
             "D": "Og and Sihon"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -3153,7 +3440,8 @@
             "C": "Because it was a gift from Abimelech to Abraham",
             "D": "Because it was a well where they made an oath"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -3164,7 +3452,8 @@
             "C": "Land of the Philistines",
             "D": "Land of Egypt"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -3175,7 +3464,8 @@
             "C": "Built an altar",
             "D": "Set up a stone"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -3186,7 +3476,8 @@
             "C": "Moriah",
             "D": "Galilee"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -3197,7 +3488,8 @@
             "C": "Let Isaac roam in the desert for 40 days",
             "D": "Give God a tenth of everything he owned"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -3208,7 +3500,8 @@
             "C": "Cut wood for the fire",
             "D": "Took two servants with him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -3219,7 +3512,8 @@
             "C": "Where is the altar?",
             "D": "Where are we going?"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -3230,7 +3524,8 @@
             "C": "Prayed to God",
             "D": "Reached out his hand and knife to slay his son"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -3241,7 +3536,8 @@
             "C": "The LORD from a bush",
             "D": "The angel of the LORD"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -3252,7 +3548,8 @@
             "C": "That he loved God",
             "D": "That he obeyed and was righteous"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -3263,7 +3560,8 @@
             "C": "A ram caught in the bushes",
             "D": "A one year old lamb"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -3274,7 +3572,8 @@
             "C": "\"The love of the LORD\"",
             "D": "\"The house of God\""
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -3285,7 +3584,8 @@
             "C": "He would take possession of the cities of his enemies",
             "D": "He would be a blessing to all nations"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -3296,7 +3596,8 @@
             "C": "By myself, the LORD",
             "D": "By God who sees"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -3307,7 +3608,8 @@
             "C": "Terah",
             "D": "Nahor"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -3318,7 +3620,8 @@
             "C": "127",
             "D": "133"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -3329,7 +3632,8 @@
             "C": "Jerusalem",
             "D": "Hebron"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -3340,7 +3644,8 @@
             "C": "Silence in his tent",
             "D": "Worshipped God"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -3351,7 +3656,8 @@
             "C": "Jebusites",
             "D": "Philistines"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -3362,7 +3668,8 @@
             "C": "Sojourner and traveller",
             "D": "A trader and merchant"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -3373,7 +3680,8 @@
             "C": "Ephron",
             "D": "Sihon"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -3384,7 +3692,8 @@
             "C": "Naharim",
             "D": "Macheplah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -3395,7 +3704,8 @@
             "C": "Before the throne",
             "D": "In the marketplace"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -3406,7 +3716,8 @@
             "C": "100 shekels of silver",
             "D": "The person would not sell it at any cost"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -3417,7 +3728,8 @@
             "C": "400 shekels of silver",
             "D": "800 shekels of silver"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -3428,7 +3740,8 @@
             "C": "Arad",
             "D": "Mamre"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -3439,7 +3752,8 @@
             "C": "En Gedi",
             "D": "Beersheba"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -3450,7 +3764,8 @@
             "C": "His nephew Lot",
             "D": "A hired messenger"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -3461,7 +3776,8 @@
             "C": "He put his hand under Abraham's thigh",
             "D": "He put his hand on Abraham's heart"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -3472,7 +3788,8 @@
             "C": "She be a virgin",
             "D": "She be a believer in the LORD"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -3483,7 +3800,8 @@
             "C": "If her family had already promised her to someone else",
             "D": "If the woman was unwilling to return with him"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -3494,7 +3812,8 @@
             "C": "Nahor",
             "D": "Laban"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -3505,7 +3824,8 @@
             "C": "At mid-day",
             "D": "At night"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -3516,7 +3836,8 @@
             "C": "She had to invite him home",
             "D": "She had to have her face veiled"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -3527,7 +3848,8 @@
             "C": "A gold nose ring",
             "D": "A gold crown for her head"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -3538,7 +3860,8 @@
             "C": "A cousin",
             "D": "A brother"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -3549,7 +3872,8 @@
             "C": "The Lord's presence",
             "D": "The Lord's angel"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -3560,7 +3884,8 @@
             "C": "By the sea",
             "D": "By a falls"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -3571,7 +3896,8 @@
             "C": "With a jar",
             "D": "With a dipper"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -3582,7 +3908,8 @@
             "C": "Brother",
             "D": "Grand-father"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -3593,7 +3920,8 @@
             "C": "Her nurse",
             "D": "Her brother"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 15,
@@ -3604,7 +3932,8 @@
             "C": "Her grandmother and father",
             "D": "Her uncle and father"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 16,
@@ -3615,7 +3944,8 @@
             "C": "In the hills of Hebron",
             "D": "In the Negev near Beer Lahai Roi"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 17,
@@ -3626,7 +3956,8 @@
             "C": "She jumped off the camel and ran to meet him",
             "D": "She gave him a cup of water"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 18,
@@ -3637,7 +3968,8 @@
             "C": "The loss of his mother",
             "D": "The loss of his servant"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -3648,7 +3980,8 @@
             "C": "Keturah",
             "D": "Hagar"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -3659,7 +3992,8 @@
             "C": "Gave gifts to the sons of his other wife and concubines",
             "D": "Sent the other sons away to the east"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -3670,7 +4004,8 @@
             "C": "Jerusalem",
             "D": "Damascus"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -3681,7 +4016,8 @@
             "C": "135",
             "D": "175"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -3692,7 +4028,8 @@
             "C": "Ishmael and Isaac",
             "D": "All his sons"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -3703,7 +4040,8 @@
             "C": "Kedemah",
             "D": "Hadad"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -3714,7 +4052,8 @@
             "C": "Jebusites",
             "D": "Egyptians"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -3725,7 +4064,8 @@
             "C": "Craftsmen in silver and gold",
             "D": "Living in hostility toward their brothers"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -3736,7 +4076,8 @@
             "C": "40",
             "D": "50"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -3747,7 +4088,8 @@
             "C": "Damascus",
             "D": "Ugarit"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -3758,7 +4100,8 @@
             "C": "Jebusite",
             "D": "Assyrian"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -3769,7 +4112,8 @@
             "C": "He prayed",
             "D": "He had a dream from God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -3780,7 +4124,8 @@
             "C": "The one would be red haired",
             "D": "The twins would fight forever"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -3791,7 +4136,8 @@
             "C": "He was kicking at his brother",
             "D": "His whole body was covered with hair"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -3802,7 +4148,8 @@
             "C": "He was the one to whom the birthright would be given",
             "D": "He was the smooth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 16,
@@ -3813,7 +4160,8 @@
             "C": "He became a skillful hunter",
             "D": "He was a skillful craftsman"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -3824,7 +4172,8 @@
             "C": "Because he served his father faithfully",
             "D": "Because he was strong"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 18,
@@ -3835,7 +4184,8 @@
             "C": "A gentle man farming his fields",
             "D": "A quiet man staying by the tents"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 20,
@@ -3846,7 +4196,8 @@
             "C": "Because he despised his birthright",
             "D": "Because his father favored him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 21,
@@ -3857,7 +4208,8 @@
             "C": "The birthright",
             "D": "50 shekels of silver"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -3868,7 +4220,8 @@
             "C": "Philistine",
             "D": "Egyptian"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -3879,7 +4232,8 @@
             "C": "Sinai",
             "D": "Jordan"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -3890,7 +4244,8 @@
             "C": "Offspring that would be a blessing to all nations",
             "D": "The recipients of God's law"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -3901,7 +4256,8 @@
             "C": "Abraham worshipped God",
             "D": "Abraham left Babylon as God had commanded him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -3912,7 +4268,8 @@
             "C": "Gerar",
             "D": "Gaza"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -3923,7 +4280,8 @@
             "C": "He said she was his servant",
             "D": "He said she had a curse on her"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -3934,7 +4292,8 @@
             "C": "After one of Isaac's servants told the king",
             "D": "After God warned him in a dream"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -3945,7 +4304,8 @@
             "C": "One hundred-fold",
             "D": "Two hundred-fold"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -3956,7 +4316,8 @@
             "C": "They fought over them",
             "D": "They filled them up"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -3967,7 +4328,8 @@
             "C": "They fought over them",
             "D": "They filled them up"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -3978,7 +4340,8 @@
             "C": "Sitnah",
             "D": "Lo-ruhamah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -3989,7 +4352,8 @@
             "C": "Gerar",
             "D": "Gaza"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -4000,7 +4364,8 @@
             "C": "Sihon",
             "D": "Phicol"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -4011,7 +4376,8 @@
             "C": "Taxes",
             "D": "Protection from the Egyptians"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 15,
@@ -4022,7 +4388,8 @@
             "C": "Beersheba",
             "D": "Gaza"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 16,
@@ -4033,7 +4400,8 @@
             "C": "Edomite",
             "D": "Amalekite"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -4044,7 +4412,8 @@
             "C": "Not able to walk",
             "D": "Not able to remember"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -4055,7 +4424,8 @@
             "C": "Wild game prepared the way he liked it",
             "D": "Some bread and wine"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -4066,7 +4436,8 @@
             "C": "His servant",
             "D": "Rebekah's handmaid"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -4077,7 +4448,8 @@
             "C": "Two young pigeons",
             "D": "Two young goats from the flock"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4088,7 +4460,8 @@
             "C": "Esau was hairy and Jacob smooth",
             "D": "Esau was smelled like a hunter and Jacob like a farmer"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -4099,7 +4472,8 @@
             "C": "He carried Esau's bow",
             "D": "He covered himself with sheep's wool"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -4110,7 +4484,8 @@
             "C": "His voice sounded like Esau",
             "D": "The smell of Esau's clothes"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -4121,7 +4496,8 @@
             "C": "Salt on his enemy's fields",
             "D": "Springs of water"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -4132,7 +4508,8 @@
             "C": "His children would number as the stars",
             "D": "His fields would produce abundant grain"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -4143,7 +4520,8 @@
             "C": "He bowed his head in silence",
             "D": "He tore his clothes"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -4151,9 +4529,11 @@
         "options": {
             "A": "Heel grabber",
             "B": "Betrayer",
-            "C": "Blessed by God"
+            "C": "Blessed by God",
+            "D": "Deceiver"
         },
-        "correct_answer": null
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -4164,7 +4544,8 @@
             "C": "By hunting and fishing",
             "D": "As a merchant for his brother"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 13,
@@ -4175,7 +4556,8 @@
             "C": "Through off Jacob's yoke",
             "D": "Break the shackles of Jacob's rule"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -4186,7 +4568,8 @@
             "C": "Put him in a pit when his mother wasn't around",
             "D": "Make Jacob his slave after his father died"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -4197,7 +4580,8 @@
             "C": "Haran, her uncle",
             "D": "Laban, her brother"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 16,
@@ -4208,7 +4592,8 @@
             "C": "The servants of Isaac",
             "D": "Esau's Egyptian wives"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -4219,7 +4604,8 @@
             "C": "Not to go into the land of the Philistines",
             "D": "Not to forsake the law of the LORD"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -4230,7 +4616,8 @@
             "C": "Bethuel",
             "D": "Terah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -4241,7 +4628,8 @@
             "C": "Grand-father",
             "D": "Brother-in-law"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -4252,7 +4640,8 @@
             "C": "That his descendants would find rich pasture",
             "D": "He would possess the land"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4263,7 +4652,8 @@
             "C": "Aramean",
             "D": "Egyptian"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -4274,7 +4664,8 @@
             "C": "Edom",
             "D": "Ammon"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -4285,7 +4676,8 @@
             "C": "Melchizedek",
             "D": "Pharaoh"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -4296,7 +4688,8 @@
             "C": "Damascus",
             "D": "Beersheba"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -4307,7 +4700,8 @@
             "C": "Angels",
             "D": "People with trumpets"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -4318,7 +4712,8 @@
             "C": "His line would last forever",
             "D": "Through him all peoples would be blessed"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -4329,7 +4724,8 @@
             "C": "Highway to heaven and gate of the most high",
             "D": "House of God and His earthly footstool"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -4340,7 +4736,8 @@
             "C": "His pack",
             "D": "The earth"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 13,
@@ -4351,7 +4748,8 @@
             "C": "Bethlehem",
             "D": "Bethel"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -4362,7 +4760,8 @@
             "C": "Laish",
             "D": "Lachish"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -4373,7 +4772,8 @@
             "C": "Provide him with a wife",
             "D": "Bring him back to this place"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 16,
@@ -4384,7 +4784,8 @@
             "C": "The bush near where the dream took place",
             "D": "The threshing floor on which he slept"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 17,
@@ -4395,7 +4796,8 @@
             "C": "A half",
             "D": "Everything he owned"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -4406,7 +4808,8 @@
             "C": "A guard",
             "D": "A shepherd"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -4417,7 +4820,8 @@
             "C": "Nahor",
             "D": "Terah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -4428,7 +4832,8 @@
             "C": "Laban",
             "D": "Terah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -4439,7 +4844,8 @@
             "C": "Shook his hand and washed his feet",
             "D": "Kissed and embraced him"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4450,7 +4856,8 @@
             "C": "7",
             "D": "10"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -4461,7 +4868,8 @@
             "C": "Rebekah",
             "D": "Milcah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -4472,7 +4880,8 @@
             "C": "Seven years",
             "D": "Ten years"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -4483,7 +4892,8 @@
             "C": "Bilhah",
             "D": "Hagar"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -4494,7 +4904,8 @@
             "C": "Bilhah",
             "D": "Hagar"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -4505,7 +4916,8 @@
             "C": "Because she was Jacob's first wife",
             "D": "Because she was not loved"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -4516,7 +4928,8 @@
             "C": "Reuben",
             "D": "Judah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -4527,7 +4940,8 @@
             "C": "Reuben",
             "D": "Judah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -4538,7 +4952,8 @@
             "C": "Reuben",
             "D": "Judah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -4549,7 +4964,8 @@
             "C": "She was dark skinned",
             "D": "She was fair haired"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -4560,7 +4976,8 @@
             "C": "Jealousy",
             "D": "Ridicule"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -4571,7 +4988,8 @@
             "C": "Asenath",
             "D": "Bilhah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -4582,7 +5000,8 @@
             "C": "Joseph",
             "D": "Zebulun"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -4593,7 +5012,8 @@
             "C": "Asenath",
             "D": "Bilhah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4604,7 +5024,8 @@
             "C": "Simeon",
             "D": "Reuben"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -4615,7 +5036,8 @@
             "C": "Mandrake plants",
             "D": "30 shekels of silver"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -4626,7 +5048,8 @@
             "C": "Miriam",
             "D": "Zipporah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -4637,7 +5060,8 @@
             "C": "Benjamin",
             "D": "Judah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -4648,7 +5072,8 @@
             "C": "That the LORD was protecting Jacob",
             "D": "That the LORD had blessed Laban on account of Jacob"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -4659,7 +5084,8 @@
             "C": "All dark lambs",
             "D": "All the speckled cows"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -4670,7 +5096,8 @@
             "C": "Allowed them to eat only grass near the spring",
             "D": "Peeled tree branches in the watering troughs"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -4681,7 +5108,8 @@
             "C": "The fastest",
             "D": "The heaviest"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -4692,7 +5120,8 @@
             "C": "Camels and horses",
             "D": "Cows and oxen"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -4703,7 +5132,8 @@
             "C": "Laban's sons were disturbed over Jacob's taking of Laban's wealth",
             "D": "Jacob longed to see his father and mother"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -4714,7 +5144,8 @@
             "C": "He tricked him into serving for nothing",
             "D": "He tricked him in his marriage to Rachel"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -4725,7 +5156,8 @@
             "C": "Gilead",
             "D": "Haran"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -4736,7 +5168,8 @@
             "C": "Tricking them",
             "D": "Selling them"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4747,7 +5180,8 @@
             "C": "Gilead",
             "D": "Galilee"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -4758,7 +5192,8 @@
             "C": "Pay Jacob the back wages he owed him",
             "D": "Give him the family gods"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -4769,7 +5204,8 @@
             "C": "Drums and flutes",
             "D": "Guitars and violins"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -4780,7 +5216,8 @@
             "C": "His family gods",
             "D": "His sons' camels"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -4791,7 +5228,8 @@
             "C": "She hid them in a well",
             "D": "She covered them with a sheep skin"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -4802,7 +5240,8 @@
             "C": "20",
             "D": "25"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -4813,7 +5252,8 @@
             "C": "A child that was born to Leah",
             "D": "A heap of stones where they made a covenant"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -4824,7 +5264,8 @@
             "C": "The heavens",
             "D": "Laban"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -4835,7 +5276,8 @@
             "C": "Angels of God",
             "D": "Laban's servants"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -4846,7 +5288,8 @@
             "C": "That Esau was setting a trap to capture Jacob",
             "D": "That Esau was silent when they announced Jacob's coming"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -4857,7 +5300,8 @@
             "C": "He had his wives and children leave the camp",
             "D": "He divided his people into two groups"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -4868,7 +5312,8 @@
             "C": "A single sheep and goat",
             "D": "Only a covering for his head"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -4879,7 +5324,8 @@
             "C": "God had promised his descendants would number as the sand",
             "D": "God had promised he would make him wealthy in herds"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -4890,7 +5336,8 @@
             "C": "Goats",
             "D": "Donkeys"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -4901,7 +5348,8 @@
             "C": "Across the Dead Sea",
             "D": "Across the stream of Jabbok"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -4912,7 +5360,8 @@
             "C": "A blessing",
             "D": "A covenant"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -4923,7 +5372,8 @@
             "C": "He twisted Jacob's ankle",
             "D": "He blinded Jacob"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -4934,7 +5384,8 @@
             "C": "To touch him",
             "D": "His name"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -4945,7 +5396,8 @@
             "C": "Peniel",
             "D": "Gilead"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -4956,7 +5408,8 @@
             "C": "Wrestle at night",
             "D": "Touch one another on the hip"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -4967,7 +5420,8 @@
             "C": "Negev",
             "D": "Edom"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 14,
@@ -4978,7 +5432,8 @@
             "C": "Struggled with God",
             "D": "Been blessed by God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -4989,7 +5444,8 @@
             "C": "Two hundred camels for gifts",
             "D": "Four hundred of Esau's men"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -5000,7 +5456,8 @@
             "C": "The maidservants and their sons",
             "D": "Jacob himself"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -5011,7 +5468,8 @@
             "C": "The maidservants and their sons",
             "D": "Jacob himself"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -5022,7 +5480,8 @@
             "C": "Kissed him",
             "D": "Wept"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -5033,7 +5492,8 @@
             "C": "A mighty warrior",
             "D": "The face of an old friend"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -5044,7 +5504,8 @@
             "C": "His cattle had nursing young and had to travel slowly",
             "D": "He must first return to Bethel to worship God there"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -5055,7 +5516,8 @@
             "C": "Galilee",
             "D": "Negev"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -5066,7 +5528,8 @@
             "C": "Seir",
             "D": "Succoth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -5077,7 +5540,8 @@
             "C": "Bethel",
             "D": "Ebenezer"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -5088,7 +5552,8 @@
             "C": "Hamor the father of Shechem",
             "D": "Nahor the son of Terah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -5099,7 +5564,8 @@
             "C": "Zilpah",
             "D": "Bilhah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -5110,7 +5576,8 @@
             "C": "Abimelech",
             "D": "Mechizedek"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -5121,7 +5588,8 @@
             "C": "He took Jacob's wife Leah",
             "D": "He violated Dinah the daughter of Jacob"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -5132,7 +5600,8 @@
             "C": "He kept quiet until his sons came home",
             "D": "He wept bitterly"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -5143,7 +5612,8 @@
             "C": "To marry their daughters",
             "D": "To trade in the land"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -5154,7 +5624,8 @@
             "C": "They had to hand Shechem over to them",
             "D": "They had to allow them to intermarry with their daughters"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -5165,7 +5636,8 @@
             "C": "The city gate",
             "D": "The city wall"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -5176,7 +5648,8 @@
             "C": "Benjamin and Joseph",
             "D": "Levi and Simeon"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -5187,7 +5660,8 @@
             "C": "A week after their sister had been violated",
             "D": "As they circumcised each of the males of Shechem"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -5198,7 +5672,8 @@
             "C": "He was silent fearing the wrath of his own sons",
             "D": "He feared he would be attacked when others heard of it"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -5209,7 +5684,8 @@
             "C": "Bethel",
             "D": "Ramah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -5220,7 +5696,8 @@
             "C": "To repent and believe on the LORD",
             "D": "To prepare the best of their animals for sacrifice"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -5231,7 +5708,8 @@
             "C": "Burned them at the well of Jacob",
             "D": "Ground them to dust and scattered them in the wind"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -5242,7 +5720,8 @@
             "C": "Because there Jacob buried his family's foreign gods",
             "D": "Because Deborah, Rebekah's nurse died there"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -5253,7 +5732,8 @@
             "C": "God Almighty (El Shaddai)",
             "D": "The LORD God"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -5264,7 +5744,8 @@
             "C": "A Messiah",
             "D": "A prophet"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -5275,7 +5756,8 @@
             "C": "He bowed before it",
             "D": "He pronounced a blessing on it"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -5286,7 +5768,8 @@
             "C": "She died",
             "D": "She cried out to the Lord"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -5297,7 +5780,8 @@
             "C": "Ben-lehem",
             "D": "Ben-Oni"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -5308,7 +5792,8 @@
             "C": "A stone from each of his children",
             "D": "An altar to the LORD"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -5319,7 +5804,8 @@
             "C": "Bethlehem",
             "D": "Hebron"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -5330,7 +5816,8 @@
             "C": "Esau",
             "D": "Judah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -5341,7 +5828,8 @@
             "C": "Judah",
             "D": "Joseph"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -5352,7 +5840,8 @@
             "C": "Ein-Gedi",
             "D": "Kiriath-Arba"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -5363,7 +5852,8 @@
             "C": "His people",
             "D": "His wife"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -5374,7 +5864,8 @@
             "C": "His wife Rebekah",
             "D": "The LORD"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -5385,7 +5876,8 @@
             "C": "Luz",
             "D": "Kiriath-arba"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -5396,7 +5888,8 @@
             "C": "Egypt",
             "D": "Haran"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -5407,7 +5900,8 @@
             "C": "Ishmael",
             "D": "Jacob"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -5418,7 +5912,8 @@
             "C": "Fields of the Negev",
             "D": "Hill country of Seir"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -5429,7 +5924,8 @@
             "C": "Amalekites",
             "D": "Moabites"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -5440,7 +5936,8 @@
             "C": "Amorites",
             "D": "Philistines"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -5451,7 +5948,8 @@
             "C": "Before there were kings in Israel",
             "D": "Before the cities of Sodom were destroyed"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -5462,7 +5960,8 @@
             "C": "He began trading with the herdsman of the desert",
             "D": "He resented not receiving the blessing"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -5473,7 +5972,8 @@
             "C": "He tried to steal his father's blessing",
             "D": "He bragged that their father favored him over them"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -5484,7 +5984,8 @@
             "C": "His brothers' sheaves of grain bowing down to his",
             "D": "His sheep and goats multiplying more than his brothers"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -5495,7 +5996,8 @@
             "C": "The trees",
             "D": "The Mountains"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -5506,7 +6008,8 @@
             "C": "Mockery",
             "D": "Jealousy"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -5517,7 +6020,8 @@
             "C": "Shechem",
             "D": "Shiloh"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -5528,7 +6032,8 @@
             "C": "Shechem",
             "D": "Shiloh"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -5539,7 +6044,8 @@
             "C": "Isaachar",
             "D": "Reuben"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -5550,7 +6056,8 @@
             "C": "A special robe",
             "D": "A gold ring"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -5561,7 +6068,8 @@
             "C": "Tied him to a tree",
             "D": "In a cave"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -5572,7 +6080,8 @@
             "C": "Egyptian",
             "D": "Hittite"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -5583,7 +6092,8 @@
             "C": "Egypt",
             "D": "Gilead"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -5594,7 +6104,8 @@
             "C": "10 pieces of gold",
             "D": "Spices and balm"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -5605,7 +6116,8 @@
             "C": "Isaachar",
             "D": "Reuben"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -5616,7 +6128,8 @@
             "C": "They had a servant report that an animal had killed Joseph",
             "D": "They said that the Ishmaelites had killed him"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -5627,7 +6140,8 @@
             "C": "Sackcloth",
             "D": "Dust on his head"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -5638,7 +6152,8 @@
             "C": "To the Ismaelites who took him to Egypt",
             "D": "Potiphar the captain of Pharaoh's guard"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -5649,7 +6164,8 @@
             "C": "Hirah",
             "D": "Potiphar"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -5660,7 +6176,8 @@
             "C": "Philistine",
             "D": "Midianite"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -5671,7 +6188,8 @@
             "C": "Onan",
             "D": "Shelah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -5682,7 +6200,8 @@
             "C": "Shua",
             "D": "Tamar"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -5693,7 +6212,8 @@
             "C": "Onan",
             "D": "Shelah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -5704,7 +6224,8 @@
             "C": "Onan",
             "D": "Shelah"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -5715,7 +6236,8 @@
             "C": "Shelah",
             "D": "Jacob"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -5726,7 +6248,8 @@
             "C": "She took off her head covering",
             "D": "She covered her face"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -5737,7 +6260,8 @@
             "C": "A gold coin",
             "D": "His sandal"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -5748,7 +6272,8 @@
             "C": "A goat",
             "D": "His inheritance"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -5759,7 +6284,8 @@
             "C": "To Bethel to build an altar",
             "D": "To Gebah to get some water"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -5770,7 +6296,8 @@
             "C": "To give her her part of the inheritance",
             "D": "To have her burned to death"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 13,
@@ -5781,7 +6308,8 @@
             "C": "By acknowledging that it was the will of the LORD",
             "D": "By giving his final son to her to wed"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -5792,7 +6320,8 @@
             "C": "Put a scarlet thread on his wrist",
             "D": "Circumcised the firstborn immediately"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 15,
@@ -5803,7 +6332,8 @@
             "C": "Shummua",
             "D": "Zerah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -5814,7 +6344,8 @@
             "C": "Captain of the guard",
             "D": "Palace attendant"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -5825,7 +6356,8 @@
             "C": "Edomites",
             "D": "Amorites"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -5836,7 +6368,8 @@
             "C": "His servant",
             "D": "God"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -5847,7 +6380,8 @@
             "C": "Because Potiphar feared the LORD",
             "D": "Because Potiphar accepted the LORD"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -5858,7 +6392,8 @@
             "C": "Potiphar's wife",
             "D": "The Pharaoh's daughter"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -5869,7 +6404,8 @@
             "C": "God",
             "D": "Himself"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -5880,7 +6416,8 @@
             "C": "His staff",
             "D": "His cloak"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -5891,7 +6428,8 @@
             "C": "Called in the guard",
             "D": "Kicked him"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -5902,7 +6440,8 @@
             "C": "He put Joseph in a pit",
             "D": "He did nothing, knowing the allegations were lies"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -5913,7 +6452,8 @@
             "C": "Pharaoh's servant",
             "D": "The other prisoners'"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -5924,7 +6464,8 @@
             "C": "Victory",
             "D": "Success"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -5935,7 +6476,8 @@
             "C": "His service to Pharaoh",
             "D": "The desires of his heart"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -5946,7 +6488,8 @@
             "C": "Cupbearer and baker",
             "D": "Baker and magician"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -5957,7 +6500,8 @@
             "C": "A vision",
             "D": "A dream"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -5968,7 +6512,8 @@
             "C": "Their families had no one to support them",
             "D": "There was a famine in the land"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -5979,7 +6524,8 @@
             "C": "Wise men",
             "D": "Him (Joseph)"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -5990,7 +6536,8 @@
             "C": "A rock",
             "D": "A river"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6001,7 +6548,8 @@
             "C": "Three days",
             "D": "Three hours"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -6012,7 +6560,8 @@
             "C": "Gave them to Pharaoh on a platter",
             "D": "Squeezed them into Pharaoh's cup"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -6023,7 +6572,8 @@
             "C": "To tell Potiphar that Joseph was innocent",
             "D": "To remember that Joseph was the one who could interpret dreams"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -6034,7 +6584,8 @@
             "C": "Three baskets of bread",
             "D": "Three pieces of unleavened bread"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -6045,7 +6596,8 @@
             "C": "Worms",
             "D": "The birds"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -6056,7 +6608,8 @@
             "C": "At the harvest celebration",
             "D": "At a war victory celebration"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -6067,7 +6620,8 @@
             "C": "He was hanged",
             "D": "He was shot with an arrow"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -6078,7 +6632,8 @@
             "C": "The scribe",
             "D": "The magician"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -6089,7 +6644,8 @@
             "C": "Three Years",
             "D": "Seven Years"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -6100,7 +6656,8 @@
             "C": "Seven cows",
             "D": "Seven fish"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -6111,7 +6668,8 @@
             "C": "The sand",
             "D": "Drying up of the Nile river"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -6122,7 +6680,8 @@
             "C": "Captains and his cupbearer",
             "D": "Wise men and magicians"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -6133,7 +6692,8 @@
             "C": "Ishmaelite",
             "D": "Jew"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6144,7 +6704,8 @@
             "C": "He said he could not, but God would interpret it",
             "D": "He said he would have to listen to the dreams before interpreting them"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -6155,7 +6716,8 @@
             "C": "Seven nations over which Pharaoh would rule",
             "D": "Seven good years"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -6166,7 +6728,8 @@
             "C": "Invaders from the north",
             "D": "The drying up of the Nile river"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -6177,7 +6740,8 @@
             "C": "One half",
             "D": "One fifth"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -6188,7 +6752,8 @@
             "C": "A worshipper of the true God",
             "D": "Discerning"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -6199,7 +6764,8 @@
             "C": "Fine linen robes",
             "D": "Gold chain around his neck"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -6210,7 +6776,8 @@
             "C": "Amenemope-Luz",
             "D": "Zaphenath-Paneah"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -6221,7 +6788,8 @@
             "C": "Potiphar daughter of Eliakim",
             "D": "Hathor daughter of Re"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -6232,7 +6800,8 @@
             "C": "Manassah",
             "D": "Asher"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -6243,7 +6812,8 @@
             "C": "Manassah",
             "D": "Asher"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 16,
@@ -6254,7 +6824,8 @@
             "C": "Meat",
             "D": "Vegetables"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -6265,7 +6836,8 @@
             "C": "In Pharaoh's carriage",
             "D": "On Pharaoh's horse"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 18,
@@ -6276,7 +6848,8 @@
             "C": "35",
             "D": "40"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 19,
@@ -6287,7 +6860,8 @@
             "C": "Joshua and Asher",
             "D": "Gad and Simeon"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 20,
@@ -6298,7 +6872,8 @@
             "C": "A priest of On",
             "D": "A captain of Pharaoh's army"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -6309,7 +6884,8 @@
             "C": "Damascus",
             "D": "Arabia"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -6320,7 +6896,8 @@
             "C": "Benjamin",
             "D": "Reuben"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -6331,7 +6908,8 @@
             "C": "He wanted him to help him at home",
             "D": "He wanted to keep at least one son for the inheritance"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -6342,7 +6920,8 @@
             "C": "They took off their hats in respect",
             "D": "They bowed with their faces to the ground"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -6353,7 +6932,8 @@
             "C": "The land of Canaan",
             "D": "The land of the Hebrews"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6364,7 +6944,8 @@
             "C": "Steal grain",
             "D": "Causing Egypt to starve by buying grain there"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -6375,7 +6956,8 @@
             "C": "They would have to bring him some grapes from their home",
             "D": "They would have to bring their youngest brother to Egypt"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -6386,7 +6968,8 @@
             "C": "Their deception of their father",
             "D": "Their killing of the Shechemites"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 9,
@@ -6397,7 +6980,8 @@
             "C": "Simeon",
             "D": "Reuben"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -6408,7 +6992,8 @@
             "C": "Simeon",
             "D": "Reuben"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -6419,7 +7004,8 @@
             "C": "Because he put a veil over his face",
             "D": "Because he changed his voice"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -6430,7 +7016,8 @@
             "C": "He forgave them",
             "D": "He wept"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -6441,7 +7028,8 @@
             "C": "Each man's silver",
             "D": "His royal cup"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -6452,7 +7040,8 @@
             "C": "They wondered what it all could mean",
             "D": "They hid the money from their father after they returned"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 15,
@@ -6463,7 +7052,8 @@
             "C": "Simeon",
             "D": "Reuben"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -6474,7 +7064,8 @@
             "C": "Levi",
             "D": "Simeon"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -6485,7 +7076,8 @@
             "C": "Olives",
             "D": "Almonds"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 3,
@@ -6496,7 +7088,8 @@
             "C": "Triple that they took the first trip",
             "D": "They add gold on the second trip"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 4,
@@ -6507,7 +7100,8 @@
             "C": "He made them wait three days",
             "D": "He gave them twice the grain they wanted"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -6518,7 +7112,8 @@
             "C": "He threatened to throw all of them into prison",
             "D": "He said the God of their father had put the money in the sack"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6529,7 +7124,8 @@
             "C": "How they were faring in Canaan",
             "D": "About their missing brother"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -6540,7 +7136,8 @@
             "C": "He gave his brother a special robe",
             "D": "He put a gold chain on his brother's neck"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -6551,7 +7148,8 @@
             "C": "According to who their mother was",
             "D": "Alphabetically"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -6562,7 +7160,8 @@
             "C": "Because it was detestable for the Egyptians to eat with Hebrews",
             "D": "Because Joseph ordered them out of the room"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -6573,7 +7172,8 @@
             "C": "He was seated at Joseph's right hand",
             "D": "He got five times as much as the other brothers"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -6584,7 +7184,8 @@
             "C": "Their feet",
             "D": "Their faces"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -6595,7 +7196,8 @@
             "C": "Joseph's silver crown",
             "D": "Joseph's silver cup"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -6606,7 +7208,8 @@
             "C": "To show Pharaoh's blessing",
             "D": "For Pharaoh's cupbearer"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -6617,7 +7220,8 @@
             "C": "Killed",
             "D": "Have his hand cut off"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -6628,7 +7232,8 @@
             "C": "They wept out loud",
             "D": "They trembled in fear"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -6639,7 +7244,8 @@
             "C": "They were to repay the silver seven times over",
             "D": "They were free to return to their father"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6650,7 +7256,8 @@
             "C": "Judah",
             "D": "Levi"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -6661,7 +7268,8 @@
             "C": "Judah",
             "D": "Levi"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -6672,7 +7280,8 @@
             "C": "He would kill himself",
             "D": "He would not eat until Benjamin returned"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 1,
@@ -6683,7 +7292,8 @@
             "C": "All his attendants to leave",
             "D": "No one report this matter to Pharaoh"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -6694,7 +7304,8 @@
             "C": "They were humbled",
             "D": "They were overjoyed"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -6705,7 +7316,8 @@
             "C": "4",
             "D": "5 E. 7"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -6716,7 +7328,8 @@
             "C": "His brothers",
             "D": "His father"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 5,
@@ -6727,7 +7340,8 @@
             "C": "To save his family's lives from the famine",
             "D": "To Abraham's seed multiply as the stars of heaven"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 6,
@@ -6738,7 +7352,8 @@
             "C": "He was Pharaoh's chief diviner",
             "D": "He was Pharaoh's son"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -6749,7 +7364,8 @@
             "C": "The land of the Nile",
             "D": "The land of Goshen"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 8,
@@ -6760,7 +7376,8 @@
             "C": "Judah",
             "D": "Levi"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -6771,7 +7388,8 @@
             "C": "The best of the land of Egypt",
             "D": "A silver chains and a gold ring for Joseph's father"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -6782,7 +7400,8 @@
             "C": "Jacob did not believe them",
             "D": "Jacob readied himself to go to Egypt"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 11,
@@ -6793,7 +7412,8 @@
             "C": "He gave Benjamin his signet ring",
             "D": "He gave Benjamin his staff"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -6804,7 +7424,8 @@
             "C": "Beersheba",
             "D": "Kadesh Barnea"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 2,
@@ -6815,7 +7436,8 @@
             "C": "He would return to the land of Canaan",
             "D": "He would make him a blessing to all nations"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -6826,7 +7448,8 @@
             "C": "Judah",
             "D": "Gad"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -6837,7 +7460,8 @@
             "C": "Shelah",
             "D": "Zephon"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -6848,7 +7472,8 @@
             "C": "Zilpah",
             "D": "Bilhah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -6859,7 +7484,8 @@
             "C": "Rebekah's",
             "D": "Sarah's"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 7,
@@ -6870,7 +7496,8 @@
             "C": "Joseph and Benjamin",
             "D": "Judah and Reuben"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 8,
@@ -6881,7 +7508,8 @@
             "C": "Merari",
             "D": "Jahleel"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -6892,7 +7520,8 @@
             "C": "Heber and Gershon",
             "D": "Kothath and Merari"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -6903,7 +7532,8 @@
             "C": "75",
             "D": "90"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -6914,7 +7544,8 @@
             "C": "In the valley of the kings",
             "D": "In Goshen"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -6925,7 +7556,8 @@
             "C": "Shepherds",
             "D": "Farmers"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -6936,7 +7568,8 @@
             "C": "Abimelech, the magician",
             "D": "Amon-Re, Pharaoh's cupbearer"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -6947,7 +7580,8 @@
             "C": "What their occupation was",
             "D": "How much livestock they brought to Egypt"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -6958,7 +7592,8 @@
             "C": "By the Nile",
             "D": "Goshen"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -6969,7 +7604,8 @@
             "C": "If his father was a shepherd",
             "D": "How many grandchildren he had"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -6980,7 +7616,8 @@
             "C": "He thanked Pharaoh",
             "D": "He praised Pharaoh"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -6991,7 +7628,8 @@
             "C": "130",
             "D": "150"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -7002,7 +7640,8 @@
             "C": "Ptah-hotep",
             "D": "Amenemope"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -7013,7 +7652,8 @@
             "C": "All the water of Egypt",
             "D": "Sheep, goats and cattle"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -7024,7 +7664,8 @@
             "C": "All the water of Egypt",
             "D": "Sheep, goats and cattle"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -7035,7 +7676,8 @@
             "C": "Pharaoh's",
             "D": "The magicians"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 10,
@@ -7046,7 +7688,8 @@
             "C": "One quarter",
             "D": "One third"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -7057,7 +7700,8 @@
             "C": "They increased greatly in number",
             "D": "They became wealthy"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -7068,7 +7712,8 @@
             "C": "Made raise his right hand to the Lord",
             "D": "Put his hand under his thigh"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -7079,7 +7724,8 @@
             "C": "That he would remember Jacob and set up a memorial for him",
             "D": "That he would forgive his brothers"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 14,
@@ -7090,7 +7736,8 @@
             "C": "15",
             "D": "17"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 15,
@@ -7101,7 +7748,8 @@
             "C": "They should go away from him because shepherds were despised",
             "D": "They were to stay away from the farmers of Egypt"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 1,
@@ -7112,7 +7760,8 @@
             "C": "He, his family and his servants",
             "D": "His two sons"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -7123,7 +7772,8 @@
             "C": "Shuni",
             "D": "Serah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -7134,7 +7784,8 @@
             "C": "Shuni",
             "D": "Serah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -7145,7 +7796,8 @@
             "C": "Luz",
             "D": "Beersheba"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -7156,7 +7808,8 @@
             "C": "He would increase in numbers",
             "D": "He would be made into a community of peoples"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -7167,7 +7820,8 @@
             "C": "They were Egyptian and would not receive an inheritance",
             "D": "They would fight one another in the future"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -7178,7 +7832,8 @@
             "C": "Threshing floor of Araunah",
             "D": "Ephrath"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -7189,7 +7844,8 @@
             "C": "Shuni",
             "D": "Serah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -7200,7 +7856,8 @@
             "C": "Shuni",
             "D": "Serah"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -7211,7 +7868,8 @@
             "C": "The God before whom my fathers Abraham and Isaac walked",
             "D": "The LORD God Almighty who sees me"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -7222,7 +7880,8 @@
             "C": "Shuni",
             "D": "Serah"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Intermediate"
     },
     {
         "id": 12,
@@ -7233,7 +7892,8 @@
             "C": "Amalekites",
             "D": "Edomites"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -7244,7 +7904,8 @@
             "C": "Rod and staff",
             "D": "Sword and bow"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -7255,7 +7916,8 @@
             "C": "What blessing each would get from him",
             "D": "What God would give each of them"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 2,
@@ -7266,7 +7928,8 @@
             "C": "Because he defiled his father's bed",
             "D": "Because he had stolen his animals from his brothers"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 3,
@@ -7277,7 +7940,8 @@
             "C": "They would die by the sword",
             "D": "They would wash their robes in the blood of grapes"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 4,
@@ -7288,7 +7952,8 @@
             "C": "They dishonored their father",
             "D": "Their swords were weapons of violence"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 5,
@@ -7299,7 +7964,8 @@
             "C": "Judah",
             "D": "Asher"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 6,
@@ -7310,7 +7976,8 @@
             "C": "Joseph",
             "D": "Gad"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Beginner"
     },
     {
         "id": 7,
@@ -7321,7 +7988,8 @@
             "C": "Simeon",
             "D": "Naphtali"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -7332,7 +8000,8 @@
             "C": "Asher",
             "D": "Naphtali"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 9,
@@ -7343,7 +8012,8 @@
             "C": "Dan",
             "D": "Asher"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 10,
@@ -7354,7 +8024,8 @@
             "C": "Asher",
             "D": "Joseph"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 11,
@@ -7365,7 +8036,8 @@
             "C": "The Shepherd",
             "D": "The Rock of Israel"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 12,
@@ -7376,7 +8048,8 @@
             "C": "Benjamin",
             "D": "Naphtali"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 13,
@@ -7387,7 +8060,8 @@
             "C": "Jethro the priest of Midian",
             "D": "Ephron the Hittite"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -7398,7 +8072,8 @@
             "C": "Ebenezer",
             "D": "Shiloh"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 15,
@@ -7409,7 +8084,8 @@
             "C": "Mamre",
             "D": "Beersheba"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -7420,7 +8096,8 @@
             "C": "His wives",
             "D": "His sons and daughters"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 17,
@@ -7431,7 +8108,8 @@
             "C": "Dan",
             "D": "Reuben"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Advanced"
     },
     {
         "id": 1,
@@ -7442,7 +8120,8 @@
             "C": "Jacob was burned and his ashes taken to Canaan",
             "D": "Jacob was placed in a coffin"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 2,
@@ -7453,7 +8132,8 @@
             "C": "Pharaoh",
             "D": "His brothers"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 3,
@@ -7464,7 +8144,8 @@
             "C": "Their servants and herds",
             "D": "Nothing"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 4,
@@ -7475,7 +8156,8 @@
             "C": "The spring of Araunah",
             "D": "The threshingfloor of Atad"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Advanced"
     },
     {
         "id": 5,
@@ -7486,7 +8168,8 @@
             "C": "Horeb",
             "D": "Ein Gedi"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 6,
@@ -7497,7 +8180,8 @@
             "C": "Mamre",
             "D": "Beersheba"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 7,
@@ -7508,7 +8192,8 @@
             "C": "Samah El Shaddai",
             "D": "Laish"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Advanced"
     },
     {
         "id": 8,
@@ -7519,7 +8204,8 @@
             "C": "He not enslave his brothers",
             "D": "He continue to provide food to his brothers"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 9,
@@ -7530,7 +8216,8 @@
             "C": "The harm they had intended to do to Joseph",
             "D": "The famine on the land of Egypt"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Beginner"
     },
     {
         "id": 10,
@@ -7541,7 +8228,8 @@
             "C": "That they should not fight one another after his death",
             "D": "They would return to the land promised to Abraham"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 11,
@@ -7552,7 +8240,8 @@
             "C": "They would not forget him but make a memorial for him",
             "D": "They would care for his sons in Egypt"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Beginner"
     },
     {
         "id": 12,
@@ -7563,7 +8252,8 @@
             "C": "125",
             "D": "150"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     },
     {
         "id": 13,
@@ -7574,7 +8264,8 @@
             "C": "In a coffin",
             "D": "On a boat in the Nile"
         },
-        "correct_answer": "C"
+        "correct_answer": "C",
+        "difficulty": "Intermediate"
     },
     {
         "id": 14,
@@ -7585,7 +8276,8 @@
             "C": "Melchizedek the Amorite",
             "D": "Ephron the Hittite"
         },
-        "correct_answer": "D"
+        "correct_answer": "D",
+        "difficulty": "Intermediate"
     },
     {
         "id": 15,
@@ -7596,7 +8288,8 @@
             "C": "Benjamin's",
             "D": "The children of his mother"
         },
-        "correct_answer": "A"
+        "correct_answer": "A",
+        "difficulty": "Intermediate"
     },
     {
         "id": 16,
@@ -7607,6 +8300,7 @@
             "C": "Benjamin's",
             "D": "Levi's"
         },
-        "correct_answer": "B"
+        "correct_answer": "B",
+        "difficulty": "Advanced"
     }
 ]

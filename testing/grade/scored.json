@@ -1,0 +1,245 @@
+{
+    "source_file": "grade_adjusted.json",
+    "overall_performance": {
+        "total_evaluated": 585,
+        "correct": 577,
+        "incorrect": 7,
+        "uncertain": 1,
+        "attempted": 584,
+        "attempted_accuracy_percentage": 98.8,
+        "overall_accuracy_percentage": 98.63,
+        "percentages": {
+            "correct": 98.63,
+            "incorrect": 1.2,
+            "uncertain": 0.17
+        }
+    },
+    "performance_by_difficulty": {
+        "Beginner": {
+            "total": 169,
+            "correct": 168,
+            "incorrect": 1,
+            "uncertain": 0,
+            "time_taken_seconds": 999.819,
+            "total_tokens": 32072,
+            "overall_accuracy_percentage": 99.41,
+            "attempted_accuracy_percentage": 99.41
+        },
+        "Intermediate": {
+            "total": 267,
+            "correct": 261,
+            "incorrect": 5,
+            "uncertain": 1,
+            "time_taken_seconds": 1552.491,
+            "total_tokens": 50364,
+            "overall_accuracy_percentage": 97.75,
+            "attempted_accuracy_percentage": 98.12
+        },
+        "Advanced": {
+            "total": 149,
+            "correct": 148,
+            "incorrect": 1,
+            "uncertain": 0,
+            "time_taken_seconds": 926.063,
+            "total_tokens": 27557,
+            "overall_accuracy_percentage": 99.33,
+            "attempted_accuracy_percentage": 99.33
+        }
+    },
+    "performance_and_resource_metrics": {
+        "total_time_seconds": 3478.373,
+        "average_time_seconds": 5.946,
+        "min_time_seconds": 2.838,
+        "max_time_seconds": 35.843,
+        "prompt_tokens": 109399,
+        "completion_tokens": 594,
+        "total_tokens": 109993,
+        "average_tokens_per_question": 188.02
+    },
+    "missed_questions": [
+        {
+            "question_index": 198,
+            "question_number": 16,
+            "difficulty": "Advanced",
+            "question": "Abram, in response to the King of Sodom, identified God as (Gen. 14:22)",
+            "options": {
+                "A": "The Creator of heaven and earth",
+                "B": "The God of the covenant",
+                "C": "The God Almighty",
+                "D": "Lord Jehovah"
+            },
+            "ai_answer": "D",
+            "correct_answer": "A",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "D",
+            "time_taken_seconds": 6.428,
+            "token_usage": {
+                "prompt_tokens": 188,
+                "completion_tokens": 1,
+                "total_tokens": 189
+            }
+        },
+        {
+            "question_index": 268,
+            "question_number": 2,
+            "difficulty": "Intermediate",
+            "question": "In what region did Abraham meet Abimelech (Gen. 20:1)?",
+            "options": {
+                "A": "Galilee",
+                "B": "Philistine plain",
+                "C": "Negev",
+                "D": "Sinai"
+            },
+            "ai_answer": "B",
+            "correct_answer": "C",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "B",
+            "time_taken_seconds": 5.917,
+            "token_usage": {
+                "prompt_tokens": 170,
+                "completion_tokens": 1,
+                "total_tokens": 171
+            }
+        },
+        {
+            "question_index": 316,
+            "question_number": 3,
+            "difficulty": "Intermediate",
+            "question": "What criteria did Abraham give in the search for a wife for Isaac (Gen. 24:4)?",
+            "options": {
+                "A": "She be a daughter of Abraham's relatives",
+                "B": "She not be a Canaanite",
+                "C": "She be a virgin",
+                "D": "She be a believer in the LORD"
+            },
+            "ai_answer": "A",
+            "correct_answer": "B",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "A",
+            "time_taken_seconds": 6.594,
+            "token_usage": {
+                "prompt_tokens": 197,
+                "completion_tokens": 1,
+                "total_tokens": 198
+            }
+        },
+        {
+            "question_index": 317,
+            "question_number": 4,
+            "difficulty": "Intermediate",
+            "question": "On what condition was the one sent to find Isaac a wife released from his oath (Gen. 24:8)?",
+            "options": {
+                "A": "If the woman was unwilling to marry Isaac",
+                "B": "If the woman was already married",
+                "C": "If her family had already promised her to someone else",
+                "D": "If the woman was unwilling to return with him"
+            },
+            "ai_answer": "A",
+            "correct_answer": "D",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "A",
+            "time_taken_seconds": 12.293,
+            "token_usage": {
+                "prompt_tokens": 216,
+                "completion_tokens": 1,
+                "total_tokens": 217
+            }
+        },
+        {
+            "question_index": 506,
+            "question_number": 9,
+            "difficulty": "Intermediate",
+            "question": "Where did Joseph's brothers put him to imprison him (Gen. 37:22)?",
+            "options": {
+                "A": "In a well",
+                "B": "In a cistern",
+                "C": "Tied him to a tree",
+                "D": "In a cave"
+            },
+            "ai_answer": "A",
+            "correct_answer": "B",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "A",
+            "time_taken_seconds": 4.266,
+            "token_usage": {
+                "prompt_tokens": 180,
+                "completion_tokens": 1,
+                "total_tokens": 181
+            }
+        },
+        {
+            "question_index": 513,
+            "question_number": 16,
+            "difficulty": "Beginner",
+            "question": "To whom did the Midianites sell Joseph (Gen. 37:36)?",
+            "options": {
+                "A": "The Pharoah of Egypt",
+                "B": "Abimelech king of the Philistines",
+                "C": "To the Ismaelites who took him to Egypt",
+                "D": "Potiphar the captain of Pharaoh's guard"
+            },
+            "ai_answer": "C",
+            "correct_answer": "D",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "C",
+            "time_taken_seconds": 5.454,
+            "token_usage": {
+                "prompt_tokens": 193,
+                "completion_tokens": 1,
+                "total_tokens": 194
+            }
+        },
+        {
+            "question_index": 519,
+            "question_number": 6,
+            "difficulty": "Intermediate",
+            "question": "Which son was Judah hesitant to give to his daughter-in-law (Gen. 38:11)?",
+            "options": {
+                "A": "Er",
+                "B": "Shua",
+                "C": "Onan",
+                "D": "Shelah"
+            },
+            "ai_answer": "D",
+            "correct_answer": "C",
+            "status": "incorrect",
+            "response_status": 0,
+            "raw_response": "D",
+            "time_taken_seconds": 3.808,
+            "token_usage": {
+                "prompt_tokens": 171,
+                "completion_tokens": 1,
+                "total_tokens": 172
+            }
+        },
+        {
+            "question_index": 566,
+            "question_number": 13,
+            "difficulty": "Intermediate",
+            "question": "Who was Joseph's wife (Gen. 41:45)?",
+            "options": {
+                "A": "Paneah daughter of Pharaoh",
+                "B": "Asenath daughter of Potiphera",
+                "C": "Potiphar daughter of Eliakim",
+                "D": "Hathor daughter of Re"
+            },
+            "ai_answer": "No relevant context found for the query.",
+            "correct_answer": "B",
+            "status": "uncertain",
+            "response_status": -1,
+            "raw_response": "No relevant context found for the query.",
+            "time_taken_seconds": 16.463,
+            "token_usage": {
+                "prompt_tokens": 181,
+                "completion_tokens": 10,
+                "total_tokens": 191
+            }
+        }
+    ]
+}
